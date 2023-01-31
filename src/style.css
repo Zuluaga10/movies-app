@@ -1,0 +1,29 @@
+.css-111lmjf-MuiGrid-root {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 32px;
+  background-color: #d2195e !important;
+}
+
+.css-1fu7jd5-MuiButtonBase-root-MuiButton-root {
+  background-color: #f85b96 !important;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: #f85b96 !important;
+}
+
+.css-1f7we8n-MuiGrid-root {
+  padding-top: 47px;
+}
+
+.movie{
+    display: flex;
+    justify-content: center
+}
